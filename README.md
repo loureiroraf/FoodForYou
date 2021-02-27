@@ -1,3 +1,5 @@
+Projeto em inicio de desenvolvimento. A ideia principal é criar um sistema web responsivo para pedidos de comida e redirecionamento para whatsapp da empresa.
+
 # FoodForYou
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
